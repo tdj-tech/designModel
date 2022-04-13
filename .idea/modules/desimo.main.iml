@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="desimo:main" external.linked.project.path="$MODULE_DIR$/../../desimo" external.root.project.path="$MODULE_DIR$/../../desimo" external.system.id="GRADLE" external.system.module.group="com.tuodfh.desimo" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../desimo" rootProjectPath="$MODULE_DIR$/../../desimo" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../desimo/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../desimo/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../desimo/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../desimo/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
