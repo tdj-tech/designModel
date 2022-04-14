@@ -1,0 +1,7 @@
+
+8
+java:S1116"Remove this empty statement.(ú§â*8¥Ã´›‚0
+t
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(„éÙ’8ËóÁœ‚0
+p
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„éÙ’8¥Ã´›‚0

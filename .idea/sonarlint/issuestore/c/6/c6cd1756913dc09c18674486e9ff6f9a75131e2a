@@ -1,0 +1,10 @@
+
+>
+java:S1116"Remove this empty statement.(¼¾•åÿÿÿÿÿ8®ş™‚0
+I
+java:S1602",Remove useless curly braces around statement(¥—ığ8‚…¨š‚0
+p
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†û–ç8®ş™‚0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Âï²îüÿÿÿÿ8‚…¨š‚0
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Æ¼µš‚0
