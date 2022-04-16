@@ -17,3 +17,17 @@ i
 9desimo/src/main/java/com/tuodfh/singleton/Singleton8.java,6\d\6d52b4ca07710c543e0e6a542f0752e71a41a91e
 i
 9desimo/src/main/java/com/tuodfh/singleton/Singleton6.java,5\f\5fe705ce109593a9c8dbd51c6600e7e4d3ee615f
+h
+8desimo/src/main/java/com/tuodfh/stratege/Comparator.java,2\3\2361e7176d7ea43f3198a4b553ab1f4c50b03b75
+l
+<desimo/src/main/java/com/tuodfh/stratege/ComparatorById.java,5\3\5328cde85075edf3028e7bf1382cb44de96f6af8
+e
+5desimo/src/main/java/com/tuodfh/stratege/Student.java,1\8\189e6b10992beb571e7152234bf989b2840fcff6
+m
+=desimo/src/main/java/com/tuodfh/stratege/ComparatorByAge.java,0\a\0aa780e9639dd9aae1e3a3a9da7a15115943cdf9
+o
+?desimo/src/main/java/com/tuodfh/stratege/ComparatorByScore.java,5\5\55a104b0fb78cd889397bae7b856fbcb4a90032e
+b
+2desimo/src/main/java/com/tuodfh/stratege/Main.java,9\b\9bdbbb4164708f02f15532e46a6f4d5e5c15b5e5
+d
+4desimo/src/main/java/com/tuodfh/stratege/Sorter.java,d\7\d7ace9925ce951fa660f4c7829449c2e2a9e537d
