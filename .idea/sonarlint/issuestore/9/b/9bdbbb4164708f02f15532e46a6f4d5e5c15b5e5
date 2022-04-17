@@ -1,10 +1,10 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ä¹¿“8»ãÐÄ‚0
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(§·Ô¶8à¶ØÄ‚0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(§·Ô¶8æ‹ÂÄ‚0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ä¹¿“8à¶ØÄ‚0
 U	java:S106"9Replace this use of System.out or System.err by a logger.(ä¹¿“8ÿ‹ÆÄ‚0
 U	java:S106"9Replace this use of System.out or System.err by a logger.(§·Ô¶8ì¹ÉÄ‚0
 r
 java:S1192"UDefine a constant instead of duplicating this literal "====================" 3 times.(ä¹¿“8à¶ØÄ‚0
 U	java:S106"9Replace this use of System.out or System.err by a logger.(§·Ô¶8ª’ØÄ‚0
-U	java:S106 "9Replace this use of System.out or System.err by a logger.(ä¹¿“8à¶ØÄ‚0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ä¹¿“8»ãÐÄ‚0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§·Ô¶8æ‹ÂÄ‚0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(§·Ô¶8à¶ØÄ‚0
