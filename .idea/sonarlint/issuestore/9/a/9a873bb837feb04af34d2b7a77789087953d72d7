@@ -1,6 +1,6 @@
 
 U	java:S106"9Replace this use of System.out or System.err by a logger.(µüöÙ8´áˆæƒ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ºÕúÿÿÿÿ8´áˆæƒ0
 [
 java:S3516
 "9Refactor this method to not always return the same value.(§Æ§¯ÿÿÿÿÿ8´áˆæƒ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ºÕúÿÿÿÿ8´áˆæƒ0

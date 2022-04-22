@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="com.tuodfh.desimo.desimo.main" target="1.8" />
+      <module name="com.tuodfh.desimo.desimo.test" target="1.8" />
       <module name="desimo.main" target="1.8" />
       <module name="desimo.test" target="1.8" />
     </bytecodeTargetLevel>
