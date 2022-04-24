@@ -1,0 +1,13 @@
+
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(ÕÔ¾Ÿ8Şÿ¶…0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò©èã8’æƒ¶…0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„•í8É§³µ…0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ“êıÿÿÿÿ8ş™¶µ…0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôÆõÍúÿÿÿÿ8¯»¶…0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¥ã 8ı¯ˆ¶…0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‹’öıÿÿÿÿ8“ì¯µ…0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™²“õ8›ˆª¶…0
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(™²“õ8ºåû¶…0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(Îè¯ì8ë‰´¶…0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(êõ×—8…–†¶…0
+X	java:S899+"<Do something with the "boolean" value returned by "hasNext".(éû·8áÁŒ·…0
