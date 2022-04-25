@@ -1,0 +1,7 @@
+
+^
+java:S1128"<Remove this unused import 'javax.lang.model.type.ErrorType'.(š€·üÿÿÿÿ8”Ëà…0
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(İ¤š‚8»ğà…0
+|
+java:S1149Q"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ªÔÍ£8ƒ¦ à…0
