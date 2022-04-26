@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f32e7b03-7c0a-42d6-87c8-7540f6603994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/prototype/LocBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/prototype/MainString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/prototype/Mainw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/prototype/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/prototype/PersonW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c750e269abe652cf98b1294e7fc743cac8fd262" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c750e269abe652cf98b1294e7fc743cac8fd262" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90ae211e23ab748bc240b6b9feb7cb1f56e4dca9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90ae211e23ab748bc240b6b9feb7cb1f56e4dca9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db78197855f2b6e6a0910bae837946ae525e06b3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db78197855f2b6e6a0910bae837946ae525e06b3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/templateMethod/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/desimo/.gradle/" />
@@ -92,11 +83,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/prototype/MainString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="168">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/templateMethod/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding>
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,20 +121,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
               <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/brige/WormGift.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-              <folding>
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -180,7 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/proxy/cglib/Car.java" />
         <option value="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/proxy/cglib/Mian.java" />
         <option value="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/proxy/springaop/TimeProxy.java" />
         <option value="$PROJECT_DIR$/desimo/src/main/resources/app.xml" />
@@ -231,6 +222,7 @@
         <option value="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/prototype/Mainw.java" />
         <option value="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/prototype/LocBuffer.java" />
         <option value="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/prototype/MainString.java" />
+        <option value="$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/templateMethod/Main.java" />
       </list>
     </option>
   </component>
@@ -242,7 +234,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="129" />
     <option name="y" value="98" />
     <option name="width" value="699" />
@@ -304,18 +296,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tuodfh" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designModel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designModel" type="462c0819:PsiDirectoryNode" />
-              <item name="desimo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tuodfh" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="PersonW.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="templateMethod" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -351,20 +332,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainString">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tuodfh.brige.Main" />
-      <module name="com.tuodfh.desimo.desimo.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tuodfh.brige.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tuodfh.command.Main" />
       <module name="com.tuodfh.desimo.desimo.main" />
@@ -384,6 +352,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tuodfh.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuodfh.templatemethod.Main" />
+      <module name="com.tuodfh.desimo.desimo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuodfh.templatemethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,11 +400,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainString" />
         <item itemvalue="Application.Mainw" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -450,12 +431,12 @@
       <workItem from="1650718627111" duration="6685000" />
       <workItem from="1650806297408" duration="4818000" />
       <workItem from="1650887142041" duration="7964000" />
-      <workItem from="1650979421853" duration="2581000" />
+      <workItem from="1650979421853" duration="3683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69419000" />
+    <option name="totallyTimeSpent" value="70521000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -470,7 +451,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989858" visible="true" weight="0.31543118" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989858" visible="true" weight="0.31543118" />
       <window_info id="Structure" order="1" sideWeight="0.5010142" side_tool="true" weight="0.27609682" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.5010142" side_tool="true" weight="0.27609682" />
@@ -480,7 +461,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.5010142" side_tool="true" weight="0.27609682" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27258065" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27258065" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.516129" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -558,13 +539,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/desimo/src/main/resources/app1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/proxy/springaop/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -987,8 +961,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/prototype/MainString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        <state relative-caret-position="168">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desimo/src/main/java/com/tuodfh/templateMethod/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
